@@ -3,7 +3,7 @@ title: "Performing ‘husband and wife’ relationships among Chinese gay couple
 collection: publications
 category: manuscripts
 paperurl: 'https://github.com/Xinyu-Liao/Xinyu-Liao.github.io/blob/master/_publications/Liao%20(2023).pdf'
-date: 2023
+date: 2023-04-01
 citation: 'Liao, X. (2023). Performing ‘husband and wife’ relationships among Chinese gay couples: variations in pitch properties and sibilants in Mandarin. University of Pennsylvania Working Papers in Linguistics (PWPL), 29(1), 128 – 138. https://repository.upenn.edu/pwpl/vol29/iss1/15/'
 ---
 
