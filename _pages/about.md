@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). My research areas include phonetics-phonology interface, variationist sociolinguistics, psycholinguistics (esp. speech perception), fieldwork, and typology. 
+I'm a first-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). My research areas include phonetics-phonology interface, variationist sociolinguistics, psycholinguistics (esp. speech perception), fieldwork, and typology. 
 
 Here is a list of the topics that I'm currently working on:
 1. Perceptual adaptation: supervised by Dr.[Yoonjung Kang](https://www.yoonjungkang.com/), I'm exploring the phonetic recaliberation/adaptation in speech perception with implications for usage-based models of phonology and mechanisms of diachronic sound change
