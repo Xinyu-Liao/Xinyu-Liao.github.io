@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). I'm interested in studying phonetics and phonology through experiments, psycholinguistic methods, computational modeling, and quantitative variationist sociolinguistics. 
+I'm a first-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). I'm interested in studying the mental representation and inherent variability of phonetics-phonology interface in human language faculty through experiments/psycholinguistic methods and computational modeling. 
 
 Here is a list of the topics that I'm currently working on:
 1. Perceptual Adaptation and Sound Change: supervised by Dr.[Yoonjung Kang](https://www.yoonjungkang.com/), I'm exploring the phonetic recaliberation/adaptation in speech perception with implications for usage-based models of phonology and mechanisms of diachronic sound change
