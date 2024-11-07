@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). I'm interested in studying the mental representation and inherent variability of phonetics-morphophonology interface in human language faculty and mental lexicon through experiments/psycholinguistic methods,  computational modeling, and variationist sociolinguistics. 
+I'm a first-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). I'm interested in studying the mental representation and inherent variability of phonetics-phonology and morphology in human language faculty and mental lexicon through experiments/psycholinguistic methods,  computational modeling, and variationist sociolinguistics. 
 
 Here is a list of the topics that I'm currently working on:
 1. Perceptual Adaptation and Sound Change: supervised by Dr.[Yoonjung Kang](https://www.yoonjungkang.com/), I'm exploring the phonetic recaliberation/adaptation in speech perception with implications for usage-based models of phonology and mechanisms of diachronic sound change
-2. Morphophonology and Phonetics of Contact & Multilingualism: loanword phonology, acquisition of second dialect morphophonology, bilingual and bi-dialectal speaker's speech production & perception
+2. Morpho-Phonology and Phonetics of Contact & Bi-/Multilingualism: loanword phonology, acquisition of second dialect (morpho)phonology, bilingual and bi-dialectal speaker's speech production & perception
 3. Sociophonetic Cognition: Drs. [Derek Dennis](https://www.utm.utoronto.ca/language-studies/people/derek-denis), [Jessamyn Schertz](http://individual.utoronto.ca/jschertz/index.shtml) and I are currently working on social perception of prosodic variation in multicultural Toronto English
 4. Language Variation and Documentation of Under-studied Languages in Asia-Pacific
 
