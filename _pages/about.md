@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). I'm interested in studying variation, learning bias, and item specificity/frequency underlying phonetics-phonology and morphology in human language faculty and mental lexicon. I apporach these questions from an interdisciplinary perspective, drawing on insights from experimental and probablistic phonology and the interface with phonetics, psycholinguistics, and sociolinguistic variation. 
+I'm a first-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). I'm interested in studying variation/change, learning bias, and item specificity/frequency underlying phonetics-phonology and morphology in human language faculty and mental lexicon. 
+I apporach these questions from an interdisciplinary perspective, especially from phonetics-phonology interface, psycholinguistics, and quantitative sociolinguistics. 
 
 Here is a list of the topics that I'm currently working on:
 1. Perceptual Adaptation and Sound Change: supervised by Dr.[Yoonjung Kang](https://www.yoonjungkang.com/), I'm exploring the phonetic recaliberation/adaptation in speech perception with implications for usage-based models of phonology and mechanisms of diachronic sound change
