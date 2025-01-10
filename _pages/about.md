@@ -21,5 +21,5 @@ Here is a list of the topics that I'm currently working on:
 
 I've graduated with an MPhil (Distinction) in Linguistics, Philology & Phonetics at the [University of Oxford](https://www.ling-phil.ox.ac.uk), where I worked with Drs. [Miriam Meyerhoff](https://www.asc.ox.ac.uk/person/professor-miriam-meyerhoff),  [Jose Elias-Ulloa](https://www.ling-phil.ox.ac.uk/people/jose-elias-ulloa), and [Matt Hunt Gardner](https://www.matthuntgardner.com). 
 
-I'll keep updating my research outputs here. Feel free to reach out :)
+I'll keep updating my research outputs here. Feel free to reach out :)  You can also download my [CV](https://drive.google.com/file/d/1W7Tu_o_kVpxBblMywxOP27UgWudizcA_/view?usp=sharing) here 
 
