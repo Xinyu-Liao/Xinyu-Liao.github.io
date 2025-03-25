@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). The key question that I'm interested is phonetic and (morpho)phonological variation. I use experimental and quantitative methods to investigate how phonetic, psycholinguistic, and sociolinguistic factors condition the variation in phonological grammar and how this variability can inform us about the learnability, processing, and evolution of sound patterns in human languages. 
+I'm a first-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). The key question that I'm interested is phonetic and (morpho)phonological variation. I use experimental and quantitative methods to investigate how phonetic, psycholinguistic, and sociolinguistic factors condition the variation in phonological grammar, and how this variability can inform us about the learnability, processing, and evolution of sound patterns in human languages. 
 
 With my past training, I apporach these questions from an interdisciplinary perspective, especially from phonetics-(morpho)phonology interface, psycholinguistics, and variationist sociolinguistics. [my CV is here](https://drive.google.com/file/d/1W7Tu_o_kVpxBblMywxOP27UgWudizcA_/view?usp=sharing)
 
