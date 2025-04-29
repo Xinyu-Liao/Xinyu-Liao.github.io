@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a first-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). The key question that I'm interested in is phonetic/phonological variation in speech production and perception. I use experimental and quantitative methods to investigate how phonetic, psycholinguistic, and social factors probabilistically condition the variation in phonological and phonetic grammar, and how this variability can inform us about the theoretical models of phonology, learnability, and evolution of sound patterns. Through this lens, I also hope to investigate some broader questions about memory organization and perceptual flexibility in cognitive science. 
 
-With my past training, I apporach these questions from an interdisciplinary perspective, especially from phonetics-(morpho)phonology interface, psycholinguistics, and variationist sociolinguistics. [my CV is here](https://drive.google.com/file/d/1a5N5M-koLGqvPFqp3c6OV1xlQOtfVJyr/view?usp=sharing)
+With my past training, I apporach these questions from an interdisciplinary perspective, especially from phonetics-(morpho)phonology interface, psycholinguistics, and variationist sociolinguistics. [my CV is here](https://drive.google.com/file/d/1_wzoN6M7h2LV8K9Ap_wHIig0adZYHjof/view?usp=sharing)
 
 Here is a list of the topics that I'm currently working on:
 1. Perceptual Adaptation and Sound Change: supervised by Dr.[Yoonjung Kang](https://www.yoonjungkang.com/), I'm exploring the phonetic recaliberation/adaptation in speech perception with implications for usage-based models of phonology and mechanisms of diachronic sound change
