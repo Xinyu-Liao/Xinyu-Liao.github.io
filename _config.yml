@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xinyu (Leslie) Liao's Personal Homepage"
+title                    : "Xinyu Liao"
 title_separator          : "-"
 name                     : &name "Xinyu Liao"
 description              : &description "a PhD student from the University of Toronto"
