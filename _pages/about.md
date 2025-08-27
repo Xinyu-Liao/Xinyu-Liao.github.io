@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Xinyu Liao. I'm a first-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). The central focus of my research is perceptual flexibility in speech perception and computational speech models, bridging perception experiments, computational modeling, and theories of speech learning and language change. I am particularly interested in how listeners adapt to innovative phonetic input and integrate multiple cues during comprehension, how computational models can be built to probe human cognition, and whether such models can exhibit perceptual biases similar to those of humans.
+My name is Xinyu Liao. I'm a second-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). The central focus of my research is perceptual flexibility in speech perception and computational speech models, bridging perception experiments, computational modeling, and theories of speech learning and language change. I am particularly interested in how listeners adapt to innovative phonetic input and integrate multiple cues during comprehension, how computational models can be built to probe human cognition, and whether such models can exhibit perceptual biases similar to those of humans.
 
 With my past training, I apporach these questions from an interdisciplinary perspective, especially from phonetics/phonology, psycholinguistics, computational modeling, and variationist sociolinguistics. [my CV is here](https://drive.google.com/file/d/12aaw49L0elH0zkgfYcXzyergN4CTZQx1/view?usp=sharing)
 
