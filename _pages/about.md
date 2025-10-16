@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Xinyu Liao. I'm a second-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). I'm interested in phonetics and psycholinguistics. The central focus of my research is speech variability in production and perception, bridging psycholinguistic experiments, computational modeling, phonetic universals, and language change. 
+My name is Xinyu Liao. I'm a second-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). I'm interested in phonetics and psycholinguistics. The central focus of my research is speech variability in production and perception, bridging psycholinguistic experiments, computational modeling, large-scale corpus analysis, cross-linguistic phonetic universals, and language change in cultural evolution. 
 
 With my past training, I apporach these questions from an interdisciplinary perspective, especially from phonetics/phonology, psycholinguistics, computational modeling, and variationist sociolinguistics. [my CV is here](https://drive.google.com/file/d/12aaw49L0elH0zkgfYcXzyergN4CTZQx1/view?usp=sharing)
 
