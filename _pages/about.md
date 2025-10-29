@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for visiting my website. My name is Xinyu. [listen to my name in Mandarin Chinese](https://drive.google.com/file/d/1okVhTp6oE66znEiqjmFdc5tZdxcsDbKI/view?usp=drive_link) 
-
-The letter “x” in pinyin (the romanization system for Chinese) represents the alveolo-palatal fricative /ɕ/. Since this sound doesn’t exist in many languages, you can approximate it with the English “sh” /ʃ/ sound. I’m happy to be addressed as “Shin-yu” or any similar variants :)
+Thanks for visiting my website. My name is Xinyu /ɕɪn.ɥy/. [listen to my name in Mandarin Chinese](https://drive.google.com/file/d/1okVhTp6oE66znEiqjmFdc5tZdxcsDbKI/view?usp=drive_link) 
 
 I'm a second-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). I primarily work on phonetics, psycholinguistics, and computational language models. The central focus of my research is speech variability in production and perception, bridging psycholinguistic experiments, computational modeling, large-scale corpus analysis, cross-linguistic phonetic universals, and language change in cultural evolution. 
 
