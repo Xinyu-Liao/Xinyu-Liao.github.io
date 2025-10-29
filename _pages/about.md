@@ -53,7 +53,7 @@ Research
 
 
 <div class="project-box">
-    <img src="https://Xinyu-Liao.github.io/images/perceptual learning.png" alt="Project Image">
+    <img src="https://Xinyu-Liao.github.io/images/perceptual learning_final.png" alt="Project Image">
     <div class="content">
         <h3> Perceptual Recalibration and Sound Change </h3>
         <p> By exposing listeners to innovative phonetic input, I explore biases in the phonetic recalibration of phonemic categorization, with implications for episodic exemplar models of phonology, and the role of acoustic memory and word frequency encoding in diachronic sound change </p>
