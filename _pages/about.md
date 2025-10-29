@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Xinyu Liao. I'm a second-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). I'm interested in phonetics and computational psycholinguistics. The central focus of my research is speech variability in production and perception, bridging psycholinguistic experiments, computational modeling, large-scale corpus analysis, cross-linguistic phonetic universals, and language change in cultural evolution. 
+My name is Xinyu Liao. The letter “x” in pinyin (the romanization system for Chinese) represents the alveolo-palatal fricative /ɕ/. Since this sound doesn’t exist in many languages, you can approximate it with the English “sh” /ʃ/ sound. I’m happy to be addressed as “Shin-yu” or any similar variants :)
+
+I'm a second-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). I'm interested in phonetics and computational psycholinguistics. The central focus of my research is speech variability in production and perception, bridging psycholinguistic experiments, computational modeling, large-scale corpus analysis, cross-linguistic phonetic universals, and language change in cultural evolution. 
 
 [my CV is here](https://drive.google.com/file/d/12aaw49L0elH0zkgfYcXzyergN4CTZQx1/view?usp=sharing)
 
