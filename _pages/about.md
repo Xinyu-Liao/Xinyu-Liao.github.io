@@ -8,12 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-My name is Xinyu. [pronunciation of my name in Mandarin Chinese](https://drive.google.com/file/d/1okVhTp6oE66znEiqjmFdc5tZdxcsDbKI/view?usp=drive_link) The letter “x” in pinyin (the romanization system for Chinese) represents the alveolo-palatal fricative /ɕ/. Since this sound doesn’t exist in many languages, you can approximate it with the English “sh” /ʃ/ sound. I’m happy to be addressed as “Shin-yu” or any similar variants :)
+Thanks for visiting my website. My name is Xinyu. [listen to my name in Mandarin Chinese](https://drive.google.com/file/d/1okVhTp6oE66znEiqjmFdc5tZdxcsDbKI/view?usp=drive_link) 
 
-I'm a second-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). I'm interested in phonetics and computational psycholinguistics. The central focus of my research is speech variability in production and perception, bridging psycholinguistic experiments, computational modeling, large-scale corpus analysis, cross-linguistic phonetic universals, and language change in cultural evolution. 
+The letter “x” in pinyin (the romanization system for Chinese) represents the alveolo-palatal fricative /ɕ/. Since this sound doesn’t exist in many languages, you can approximate it with the English “sh” /ʃ/ sound. I’m happy to be addressed as “Shin-yu” or any similar variants :)
 
-[my CV is here](https://drive.google.com/file/d/12aaw49L0elH0zkgfYcXzyergN4CTZQx1/view?usp=sharing)
+I'm a second-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). I primarily work on phonetics, psycholinguistics, and computational language models. The central focus of my research is speech variability in production and perception, bridging psycholinguistic experiments, computational modeling, large-scale corpus analysis, cross-linguistic phonetic universals, and language change in cultural evolution. 
 
+[my CV is here](https://drive.google.com/file/d/1z1RkBDDC2DP-26jBgrP9b3Qqkcnsoals/view?usp=drive_link)
+
+I'll keep updating my research outputs here. Feel free to reach out :)  
 
 <h2 id="active">
 Research
@@ -59,4 +62,3 @@ Research
     </div>
 </div>
 
-I'll keep updating my research outputs here. Feel free to reach out :)  
