@@ -58,3 +58,7 @@ Research
     </div>
 </div>
 
+<h2 id="active">
+News
+</h2>
+I will present my paper on <i> perceptual recalibration and sound change </i>, co-authored with my advisor, [Yoonjung Kang](https://www.yoonjungkang.com/), at the LSA Annual Meeting 2026 in New Orleans!
