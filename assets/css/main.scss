@@ -1,7 +1,3 @@
----
-# Only the main Sass file needs front matter
----
-
 /*
  *    Minimal Mistakes Jekyll Theme
  *
@@ -11,30 +7,6 @@
  *
 */
 
-/* ========= 浅蓝主题：先覆盖变量（需在 @import "variables" 之前） ========= */
-$background-color: #f5faff !default;         // 页面背景：很浅的蓝
-$text-color: #1a1a1a !default;               // 正文
-$muted-text-color: #4a5a6a !default;         // 次要文字
-
-$primary-color: #3399ff !default;            // 主色（按钮、强调）
-$link-color: #3399ff !default;               // 链接
-$link-color-hover: #007acc !default;         // 链接 hover
-
-$border-color: #d6e6ff !default;             // 边框、分割线
-$code-background-color: #eef6ff !default;    // 代码块背景
-
-$masthead-link-color: #ffffff !default;      // 顶部导航文字
-$masthead-link-color-hover: #e6f2ff !default;
-
-$footer-background-color: #e6f2ff !default;  // 页脚背景
-$footer-text-color: #1f2a37 !default;
-
-/* 按钮（Minimal Mistakes 的按钮变量有 !default，可提前覆写） */
-$btn-background: #3399ff !default;
-$btn-background-hover: #007acc !default;
-$btn-color: #ffffff !default;
-
-/* ========= 主题原有的导入顺序保持不变 ========= */
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
@@ -65,72 +37,3 @@ $btn-color: #ffffff !default;
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* ========= 末尾追加一些选择器级别的兜底样式，确保浅蓝生效 ========= */
-body {
-  background-color: $background-color;
-  color: $text-color;
-}
-
-a {
-  color: $link-color;
-  &:hover, &:focus {
-    color: $link-color-hover;
-  }
-}
-
-/* 顶部导航：轻浅蓝底 + 白字 */
-.masthead,
-.masthead__inner-wrap,
-.greedy-nav {
-  background: linear-gradient(180deg, #66b2ff 0%, #3399ff 100%);
-}
-.greedy-nav a,
-.masthead a.site-title,
-.masthead .site-title {
-  color: $masthead-link-color !important;
-}
-.greedy-nav a:hover,
-.masthead a.site-title:hover {
-  color: $masthead-link-color-hover !important;
-}
-
-/* 卡片、侧栏等边框更柔和 */
-.page, .page__inner-wrap, .sidebar, .archive, .notice,
-.page__content .notice--primary,
-.page__related {
-  border-color: $border-color;
-}
-
-/* 引用块与代码块更“浅蓝” */
-.page__content blockquote {
-  border-left-color: #66b2ff;
-  background: #f0f7ff;
-}
-.highlighter-rouge,
-.highlight {
-  background: $code-background-color;
-}
-
-/* 页脚 */
-.page__footer,
-.page__footer-follow,
-.page__footer-copyright {
-  background: $footer-background-color;
-  color: $footer-text-color;
-}
-
-/* 按钮 */
-.btn, .btn--primary, .page__content a.btn {
-  background: $btn-background;
-  color: $btn-color !important;
-  border-color: transparent;
-}
-.btn:hover, .btn--primary:hover, .page__content a.btn:hover {
-  background: $btn-background-hover;
-}
-
-/* 通知条（notices）主色调 */
-.notice--primary {
-  border-left-color: #3399ff;
-  background: #eef6ff;
-}
