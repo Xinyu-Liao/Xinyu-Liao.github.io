@@ -10,7 +10,7 @@ redirect_from:
 
 Hello!! My name is Xinyu /ɕɪn.ɥy/ [my name in Mandarin Chinese](https://drive.google.com/file/d/1okVhTp6oE66znEiqjmFdc5tZdxcsDbKI/view?usp=drive_link) 
 
-I'm a second-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). I primarily work on phonetics, psycholinguistics, and computational language models. The central focus of my research is speech variability in production and perception, bridging psycholinguistic experiments, computational modeling, large-scale corpus analysis, cross-linguistic phonetic universals, and theories of language change.
+I'm a second-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). I primarily work on phonetics, psycholinguistics, and computational language models. The central focus of my research is speech variability in production and perception, bridging psycholinguistic experiments, computational modeling, large-scale corpus analysis, cross-linguistic phonetic universals, and theories of language change and variation.
 
 [my CV is here: last updated in Oct 2025](https://drive.google.com/file/d/1z1RkBDDC2DP-26jBgrP9b3Qqkcnsoals/view?usp=drive_link)
 
@@ -54,11 +54,12 @@ Research
     <img src="https://Xinyu-Liao.github.io/images/perceptual learning_final.png" alt="Project Image">
     <div class="content">
         <h3> Perceptual Recalibration and Sound Change </h3>
-        <p> By exposing listeners to innovative phonetic input, I explore biases in the phonetic recalibration of phonemic categorization, with implications for episodic exemplar models of phonology, and the role of acoustic memory and word frequency encoding in diachronic sound change </p>
+        <p> Supervisor:<a href="https://www.yoonjungkang.com/" target="_blank">Dr. Yoonjung Kang</a> </p>
+        <p> By exposing listeners to innovative phonetic input, I explore biases in the phonetic recalibration of phonemic categorization, with implications for episodic exemplar models of phonology, and the role of phonetically grounded typological biases and word frequency encoding in diachronic sound change </p>
     </div>
 </div>
 
 <h2 id="active">
 News
 </h2>
-I will present my paper on <i> perceptual recalibration and sound change</i>, co-authored with my advisor, <a href="https://www.yoonjungkang.com/" target="_blank">Yoonjung Kang</a>, at the LSA Annual Meeting 2026 in New Orleans!
+I will present my paper, co-authored with my advisor, <a href="https://www.yoonjungkang.com/" target="_blank">Yoonjung Kang</a>, at the LSA Annual Meeting 2026 in New Orleans!
