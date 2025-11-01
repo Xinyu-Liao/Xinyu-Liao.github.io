@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello!! My name is Xinyu /ɕɪn.ɥy/ [my name in Mandarin Chinese](https://drive.google.com/file/d/1okVhTp6oE66znEiqjmFdc5tZdxcsDbKI/view?usp=drive_link) 
+Hello!! My name is Xinyu /ɕɪn.ɥy/ (like "Shin-yu" in English) [Listen to my name in Mandarin Chinese](https://drive.google.com/file/d/1okVhTp6oE66znEiqjmFdc5tZdxcsDbKI/view?usp=drive_link) 
 
 I'm a second-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). I primarily work on phonetics, psycholinguistics, and computational language models. The central focus of my research is speech variability in production and perception, bridging psycholinguistic experiments, computational modeling, large-scale corpus analysis, cross-linguistic phonetic universals, and theories of language change and variation.
 
