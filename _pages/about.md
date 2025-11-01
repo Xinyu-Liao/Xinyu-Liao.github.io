@@ -54,7 +54,7 @@ Research
     <img src="https://Xinyu-Liao.github.io/images/perceptual learning_final.png" alt="Project Image">
     <div class="content">
         <h3> Perceptual Recalibration and Sound Change </h3>
-        <p> Supervisor:<a href="https://www.yoonjungkang.com/" target="_blank">Dr. Yoonjung Kang</a> </p>
+        <p> Supervisor: <a href="https://www.yoonjungkang.com/" target="_blank">Dr. Yoonjung Kang</a> </p>
         <p> By exposing listeners to innovative phonetic input, I explore biases in the phonetic recalibration of phonemic categorization, with implications for episodic exemplar models of phonology, and the role of phonetically grounded typological biases and word frequency encoding in diachronic sound change </p>
     </div>
 </div>
