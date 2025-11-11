@@ -56,7 +56,7 @@ Research
         <h3> Perceptual Recalibration and Sound Change </h3>
         <p> Supervisor: <a href="https://www.yoonjungkang.com/" target="_blank">Dr. Yoonjung Kang</a> </p>
         <p> Collaborator: <a href="https://hironori1123.github.io/Homepage/" target="_blank">Dr. Hironori Katsuda</a> </p>
-        <p> By exposing listeners to innovative phonetic input, We explore biases in the phonetic recalibration of phonemic categorization, with implications for episodic exemplar models of phonology, and the role of phonetically grounded typological biases and word frequency encoding in diachronic sound change. The languages that we are working on include North American English and Japanese. </p>
+        <p> By exposing listeners to innovative phonetic input, we explored biases in the perceptual recalibration of phonemic categorization, with implications for the role of phonetically grounded typological biases and word frequency encoding in exemplar phonology in diachronic sound change. The languages that we are currently working on include North American English and Japanese. </p>
     </div>
 </div>
 
