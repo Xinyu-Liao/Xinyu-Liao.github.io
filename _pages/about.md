@@ -53,8 +53,7 @@ Research
     <img src="https://Xinyu-Liao.github.io/images/surprisal_variation.png" alt="Project Image">
     <div class="content">
         <h3> Surprisal effects from language models in speech variation </h3>
-        <p> Supervisors: <a href="https://dnrb.github.io/" target="_blank">Dr. Barend Beekhuizen</a> and <a href="http://individual.utoronto.ca/jschertz/index.shtml" target="_blank">Dr. Jessamyn Schertz</a> </p>
-        <p> Collaborator: <a href="https://hironori1123.github.io/Homepage/" target="_blank">Dr. Hironori Katsuda</a> </p>
+        <p> Supervisors: <a href="https://dnrb.github.io/" target="_blank"> Dr. Barend Beekhuizen (primary advisor) </a> and <a href="http://individual.utoronto.ca/jschertz/index.shtml" target="_blank">Dr. Jessamyn Schertz</a> </p>
         <p> This is my ongoing project for the second Generals Paper at U of T. We are investigating how surprisal derived from language models predicts variation in speech signals in large-scale corpora. </p>
     </div>
 </div>
