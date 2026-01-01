@@ -72,4 +72,4 @@ Research
 <h2 id="active">
 News
 </h2>
-I will present my paper, co-authored with my advisor, <a href="https://www.yoonjungkang.com/" target="_blank">Yoonjung Kang</a>, at the LSA Annual Meeting 2026 in New Orleans!
+I was awarded First Place in the Student Abstract Awards at the <a href="https://web.cvent.com/event/d453188a-a321-46d4-b57e-79d5067e6521/websitePage:8237846b-4e4f-4ce2-b28e-99e48c955aeb" target="_blank">Linguistic Society of America (LSA) Annual Meeting 2026</a> (co-authored with my advisor <a href="https://www.yoonjungkang.com/" target="_blank">Yoonjung Kang</a>)!
