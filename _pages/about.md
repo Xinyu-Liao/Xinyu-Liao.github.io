@@ -50,7 +50,7 @@ Research
 </style>
 
 <div class="project-box">
-    <img src="https://Xinyu-Liao.github.io/images/surprisal_variation.png" alt="Project Image">
+    <img src="https://Xinyu-Liao.github.io/images/surprisal_variation2.png" alt="Project Image">
     <div class="content">
         <h3> Surprisal effects in the information packaging of speech variation </h3>
         <p> Supervisors: <a href="https://dnrb.github.io/" target="_blank"> Dr. Barend Beekhuizen (primary advisor) </a> and <a href="http://individual.utoronto.ca/jschertz/index.shtml" target="_blank">Dr. Jessamyn Schertz</a> </p>
