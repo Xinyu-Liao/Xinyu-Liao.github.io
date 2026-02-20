@@ -73,5 +73,7 @@ Research
 News
 </h2>
 <ul>
+  <li> My paper (co-authored with <a href="https://hironori1123.github.io/Homepage/" target="_blank"> Hironori Katsuda (Kansas) </a> and <a href="https://www.yoonjungkang.com/" target="_blank"> Yoonjung Kang </a>) <em> Do long vowels lead sound
+change? Perceptual learning of vowel shifts in Japanese </em> was accepted as a poster presentation at <a href="https://labphon.org/labphon20/home" target="_blank"> LabPhon 2026</a> </li>
   <li> I will present my paper (co-authored with <a href="https://chenzixu.rbind.io/" target="_blank">Chenzi Xu (NTU)</a>) <em> Individual differences of cue weights in bilingual speech are correlated across languages and contrasts</em> at the <a href="https://eall.columbian.gwu.edu/naccl-38" target="_blank"> 38th North American Conference on Chinese Linguistics (NACCL)</a> </li>
   <li> I was awarded First Place in the Student Abstract Awards at the <a href= "https://www.lsadc.org/student_abstract_award" target="_blank">Linguistic Society of America (LSA) Annual Meeting 2026</a> (co-authored with my advisor <a href="https://www.yoonjungkang.com/" target="_blank">Yoonjung Kang</a>)! </li>
