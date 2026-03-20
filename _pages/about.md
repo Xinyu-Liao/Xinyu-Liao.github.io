@@ -10,7 +10,7 @@ redirect_from:
 
 Hello!! My name is Xinyu /ɕɪn.ɥy/ (like "Shin-yu" in English). You can also call me Leslie. [Listen to my name in Mandarin Chinese](https://drive.google.com/file/d/1okVhTp6oE66znEiqjmFdc5tZdxcsDbKI/view?usp=drive_link).
 
-I'm a second-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). I'm a phonetician/laboratory phonologist and computational psycholinguist by training. I integrate experimental and computational approaches to investigate the adaptability and cognitive encoding involved in speech perception and production.
+I'm a second-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). I'm a phonetician/laboratory phonologist and computational psycholinguist by training. I integrate experimental, computational, and quantitative approaches to investigate the adaptability and cognitive encoding involved in speech perception and production.
 
 [my CV is here: last updated in Oct 2025](https://drive.google.com/file/d/1z1RkBDDC2DP-26jBgrP9b3Qqkcnsoals/view?usp=drive_link)
 
