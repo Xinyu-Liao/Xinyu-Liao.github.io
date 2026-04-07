@@ -10,7 +10,7 @@ redirect_from:
 
 Hello!! My name is Xinyu /ɕɪn.ɥy/ (like "Shin-yu" in English). You can also call me Leslie. [Listen to my name in Mandarin Chinese](https://drive.google.com/file/d/1okVhTp6oE66znEiqjmFdc5tZdxcsDbKI/view?usp=drive_link).
 
-I'm a second-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). I'm a phonetician/laboratory phonologist and computational psycholinguist by training. I integrate experimental, computational, and quantitative approaches to investigate the adaptability and cognitive encoding involved in speech perception and production.
+I'm a second-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). I'm a phonetician/laboratory phonologist and computational psycholinguist by training. My research integrates acoustic phonetics, psycholinguistic experiments, and computational modeling to investigate how speakers encode and adapt to variability in speech. In particular, I examine how low-level multidimensional acoustic cues interact with higher-level linguistic knowledge—such as those captured by large language models—to shape speech perception and production.
 
 [my CV is here: last updated in Oct 2025](https://drive.google.com/file/d/1z1RkBDDC2DP-26jBgrP9b3Qqkcnsoals/view?usp=drive_link)
 
@@ -54,7 +54,7 @@ Research
     <div class="content">
         <h3> Surprisal effects in the information packaging of speech variation </h3>
         <p> Supervisors: <a href="https://dnrb.github.io/" target="_blank"> Dr. Barend Beekhuizen (primary advisor) </a> and <a href="http://individual.utoronto.ca/jschertz/index.shtml" target="_blank">Dr. Jessamyn Schertz</a> </p>
-        <p> This is my ongoing project for the second Generals Paper at U of T. We are investigating how surprisal derived from language models predicts variation in speech signals in large-scale corpora. </p>
+        <p> This project examines how information-theoretic mesures derived from language models influence the realization of speech variation. Using large-scale corpora, we investigate whether surprisal predicts how information is distributed across acoustic cues in speech. This work connects computational measures of contextual predictability with phonetic variation, aiming to bridge large-scale LLM representations and fine-grained speech patterns. </p>
     </div>
 </div>
 
@@ -64,7 +64,7 @@ Research
         <h3> Perceptual Recalibration and Sound Change </h3>
         <p> Supervisor: <a href="https://www.yoonjungkang.com/" target="_blank">Dr. Yoonjung Kang</a> </p>
         <p> Collaborator: <a href="https://hironori1123.github.io/Homepage/" target="_blank">Dr. Hironori Katsuda</a> </p>
-        <p> By exposing listeners to innovative phonetic input, we explored biases in the perceptual recalibration of phonemic categorization, with implications for the role of phonetically grounded typological biases and word frequency encoding in exemplar phonology in diachronic sound change. The languages that we are currently working on include North American English and Japanese. </p>
+        <p> This project investigates how listeners adapt to novel phonetic input and how such adaptation sheds light on long-term sound change. Through perceptual learning experiments, we examine phonological and cognitive biases (e.g., lexical frequency and speech rate) in perceptual adaptation and generalization. </p>
     </div>
 </div>
 
