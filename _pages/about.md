@@ -10,7 +10,7 @@ redirect_from:
 
 Hello!! My name is Xinyu /ɕɪn.ɥy/ (like "Shin-yu" in English). You can also call me Leslie. [Listen to my name in Mandarin Chinese](https://drive.google.com/file/d/1okVhTp6oE66znEiqjmFdc5tZdxcsDbKI/view?usp=drive_link).
 
-I'm a second-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). I'm a phonetician/laboratory phonologist and computational psycholinguist by training. My research integrates acoustic phonetics, psycholinguistic experiments, and computational modeling to investigate how speakers encode and adapt to variability in speech. In particular, I examine how low-level multidimensional acoustic cues interact with higher-level linguistic knowledge—such as those captured by large language models—to shape speech perception and production.
+I'm a second-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). I'm a phonetician/laboratory phonologist and computational psycholinguist by training. My research integrates acoustic phonetics, psycholinguistic experiments, and computational modeling to investigate how speakers encode and adapt to variability in speech. In particular, I examine how low-level acoustic cues in the multidimensional space interact with higher-level knowledge and expectations from cognitive and linguistic system —such as those captured by large language models—to shape speech perception and production.
 
 [my CV is here: last updated in Oct 2025](https://drive.google.com/file/d/1z1RkBDDC2DP-26jBgrP9b3Qqkcnsoals/view?usp=drive_link)
 
@@ -54,7 +54,7 @@ Research
     <div class="content">
         <h3> Surprisal effects in the information packaging of speech variation </h3>
         <p> Supervisors: <a href="https://dnrb.github.io/" target="_blank"> Dr. Barend Beekhuizen (primary advisor) </a> and <a href="http://individual.utoronto.ca/jschertz/index.shtml" target="_blank">Dr. Jessamyn Schertz</a> </p>
-        <p> This project examines how information-theoretic mesures derived from language models influence the realization of speech variation. Using large-scale corpora, we investigate whether surprisal predicts how information is distributed across acoustic cues in speech. This work connects computational measures of contextual predictability with phonetic variation, aiming to bridge large-scale LLM representations and fine-grained speech patterns. </p>
+        <p> This project examines how computational measures of informativity predict how information is distributed across acoustic cues in speech, aiming to bridge large-scale LLM representations and fine-grained speech patterns. </p>
     </div>
 </div>
 
