@@ -10,7 +10,7 @@ redirect_from:
 
 Hello!! My name is Xinyu /ɕɪn.ɥy/ (like "Shin-yu" in English). You can also call me Leslie. [Listen to my name in Mandarin Chinese](https://drive.google.com/file/d/1okVhTp6oE66znEiqjmFdc5tZdxcsDbKI/view?usp=drive_link).
 
-I'm a second-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). I'm a phonetician/laboratory phonologist and computational psycholinguist by training. My research integrates acoustic phonetics, psycholinguistic experiments, and computational modeling to investigate how speakers encode and adapt to variability in speech. In particular, I examine how low-level acoustic cues in the multidimensional space interact with higher-level knowledge and expectations from cognitive and linguistic system —such as those captured by large language models—to shape speech perception and production.
+I'm a second-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). I'm a phonetician/laboratory phonologist and computational psycholinguist by training. My research integrates acoustic phonetics, psycholinguistic experiments, and computational modeling to investigate how speakers encode and adapt to variability in speech. In particular, I examine how low-level acoustic cues in the multidimensional space interact with higher-level knowledge and predictive mechanisms from social, cognitive and linguistic system —such as those captured by large language models—to shape speech perception and production.
 
 [my CV is here: last updated in Oct 2025](https://drive.google.com/file/d/1z1RkBDDC2DP-26jBgrP9b3Qqkcnsoals/view?usp=drive_link)
 
