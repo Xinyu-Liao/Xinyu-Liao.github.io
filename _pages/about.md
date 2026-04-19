@@ -61,7 +61,7 @@ Research
 <div class="project-box">
     <img src="https://Xinyu-Liao.github.io/images/perceptual learning_final.png" alt="Project Image">
     <div class="content">
-        <h3> Perceptual Recalibration and Sound Change </h3>
+        <h3> Perceptual recalibration of speech </h3>
         <p> Supervisor: <a href="https://www.yoonjungkang.com/" target="_blank">Dr. Yoonjung Kang</a> </p>
         <p> Collaborator: <a href="https://hironori1123.github.io/Homepage/" target="_blank">Dr. Hironori Katsuda</a> </p>
         <p> This project investigates how listeners adapt to novel phonetic input and how such adaptation sheds light on long-term sound change. Through perceptual learning experiments, we examine phonological and cognitive biases (e.g., lexical frequency and speech rate) in perceptual adaptation and generalization. </p>
