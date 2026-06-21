@@ -10,7 +10,7 @@ redirect_from:
 
 Hello!! My name is Xinyu /ɕɪn.ɥy/ (like "Shin-yu" in English). You can also call me Leslie. [Listen to my name in Mandarin Chinese](https://drive.google.com/file/d/1okVhTp6oE66znEiqjmFdc5tZdxcsDbKI/view?usp=drive_link).
 
-I'm a second-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). My research areas include phonetics, psycholinguistics, and cognitive modeling with computational linguistics tools. I examine the prediction, adaptation, and cue weighting in speech perception, comprehension, and production, and how these processes have implications for the cognitive encoding of speech in the brain, phonological and lexical representations, and language change and variation. My methodological approach combines acoustic analysis, large-scale corpus analysis, psycholinguistic experiments, and computational modeling, including the use of large language models.
+I'm a second-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). My research areas include phonetics, psycholinguistics, cognitive modeling, and computational linguistics. I use experimental, computational, and quantitative methods to study prediction, adaptation, and cue weighting in speech perception, comprehension, and production. I am especially interested in how human language processing can be compared with, and modeled by, large language models.
 
 [my CV is here: last updated in April 2026](https://drive.google.com/file/d/19L-zOo7j3l-VrkfJHLAEXj6qTUnXlLP6/view?usp=drive_link)
 
