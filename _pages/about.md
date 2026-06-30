@@ -73,5 +73,4 @@ Research
 News
 </h2>
 <ul>
-  <li> My paper (co-authored with <a href="https://hironori1123.github.io/Homepage/" target="_blank"> Hironori Katsuda (Kansas) </a> and <a href="https://www.yoonjungkang.com/" target="_blank"> Yoonjung Kang </a>) <em> Do long vowels lead sound
-change? Perceptual learning of vowel shifts in Japanese </em> was accepted as a poster presentation at <a href="https://labphon.org/labphon20/home" target="_blank"> LabPhon 2026</a> </li>
+  <li> I'm surviving through the summer to defend my second Generals Paper. Stay tuned! </li>
