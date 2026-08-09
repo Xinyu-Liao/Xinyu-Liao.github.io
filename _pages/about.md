@@ -12,7 +12,7 @@ Hello!! My name is Xinyu /ɕɪn.ɥy/ (like "Shin-yu" in English). You can also c
 
 I'm a second-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). Since 2026 Fall, I will serve as the student coordinator for the [Phonetics and Phonology (Phon) Research Group](https://www.linguistics.utoronto.ca/research-groups/phonetics-and-phonology).
 
-I'm broadly interested in speech perception/production, computational linguistics, language processing. I use experimental, computational, and quantitative methods to study prediction, adaptation, linguistic/cognitive representation, and cue integration in speech. I am especially interested in how cognitive processing of human speech and language can be compared with, and modeled by, neural speech/language models.
+I'm broadly interested in speech perception/production, computational linguistics, language processing, and sociolinguistics. I use experimental, computational, and quantitative methods to study prediction, adaptation, linguistic/cognitive representation, and cue integration in speech. I am especially interested in how cognitive processing of human speech and language can be compared with, and modeled by, neural speech/language models.
 
 [my CV is here: last updated in April 2026](https://drive.google.com/file/d/19L-zOo7j3l-VrkfJHLAEXj6qTUnXlLP6/view?usp=drive_link)
 
