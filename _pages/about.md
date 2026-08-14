@@ -75,4 +75,4 @@ Research
 News
 </h2>
 <ul>
-  <li> I'm surviving through the summer to defend my second Generals Paper. Stay tuned! </li>
+  <li> Just defended my second GP. I will present my paper in <a href = "https://amp-2026.github.io/" target="_blank">AMP2026</a>. </li>
