@@ -10,7 +10,7 @@ redirect_from:
 
 Hello!! My name is Xinyu /ɕɪn.ɥy/ (like "Shin-yu" in English). You can also call me Leslie. [Listen to my name in Mandarin Chinese](https://drive.google.com/file/d/1okVhTp6oE66znEiqjmFdc5tZdxcsDbKI/view?usp=drive_link).
 
-I'm a second-year PhD student in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). Since 2026 Fall, I will serve as the student coordinator for the [Phonetics and Phonology (Phon) Research Group](https://www.linguistics.utoronto.ca/research-groups/phonetics-and-phonology).
+I'm a third-year PhD researcher in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). Since 2026 Fall, I will serve as the student coordinator for the [Phonetics and Phonology (Phon) Research Group](https://www.linguistics.utoronto.ca/research-groups/phonetics-and-phonology).
 
 I'm broadly interested in psycholinguistics, NLP, and (socio)phonetics. I combine computational, experimental, and quantitative methods to study prediction, adaptation, and cue integration in speech. I am especially interested in how the cognitive processing of speech and language can be compared with, and modeled by, neural language models.
 
