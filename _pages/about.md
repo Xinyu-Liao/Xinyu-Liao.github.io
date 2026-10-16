@@ -75,4 +75,4 @@ Research
 News
 </h2>
 <ul>
-  <li> Just defended my second GP. I will present my paper in <a href = "https://amp-2026.github.io/" target="_blank">AMP2026</a>. </li>
+  <li> I will present my paper about modelling language attitude in the probabilistic grammar of Heritage Polish (co-authored with <a href = "http://individual.utoronto.ca/ngn/" target="_blank">Naomi Nagy</a>) in <a href = "https://nwav54.org/" target="_blank">NWAV 54</a>. </li>
