@@ -12,7 +12,7 @@ Hello!! My name is Xinyu /ɕɪn.ɥy/ (like "Shin-yu" in English). You can also c
 
 I'm a third-year PhD researcher in Linguistics at the [University of Toronto](https://www.linguistics.utoronto.ca). Since 2026 Fall, I will serve as the student coordinator for the [Phonetics and Phonology (Phon) Research Group](https://www.linguistics.utoronto.ca/research-groups/phonetics-and-phonology).
 
-I'm broadly interested in psycholinguistics, NLP, and (socio)phonetics. I combine computational, experimental, and quantitative methods to study prediction, adaptation, and information integration in speech and language processing. I am especially interested in how the cognitive processing of speech and language can be compared with, and modeled by, neural language models.
+I'm broadly interested in psycholinguistics, NLP, and (socio)phonetics. I combine computational, experimental, and quantitative methods to study prediction, adaptation, and information integration in speech and language processing. I am especially interested in how the cognitive processing of speech and language can be compared with, and modeled by, neural language models. I'm co-advised by [Shohini Bhattasali (CLUE lab)](https://cluelab-uoft.github.io/) and [Yoonjung Kang](https://www.yoonjungkang.com/) for my PhD thesis on predictive processing in speech comprehension and production, at the interface of computational modelling, cognitive (neuro)science, and experimental phonetics/phonology. 
 
 [my CV is here: last updated in April 2026](https://drive.google.com/file/d/19L-zOo7j3l-VrkfJHLAEXj6qTUnXlLP6/view?usp=drive_link)
 
@@ -75,4 +75,4 @@ Research
 News
 </h2>
 <ul>
-  <li> I will present my paper about modelling language attitude in the probabilistic grammar of Heritage Polish (co-authored with <a href = "http://individual.utoronto.ca/ngn/" target="_blank">Naomi Nagy</a>) in <a href = "https://nwav54.org/" target="_blank">NWAV 54</a>. </li>
+  <li> Busy with writing and making progress on my thesis now!. </li>
