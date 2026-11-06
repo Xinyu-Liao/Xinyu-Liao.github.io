@@ -57,7 +57,6 @@ Research
     <img src="https://Xinyu-Liao.github.io/images/surprisal_variation2.png" alt="Project Image">
     <div class="content">
         <h3> Surprisal effects in the information packaging of speech variation </h3>
-        <p> Supervisors: <a href="https://dnrb.github.io/" target="_blank"> Dr. Barend Beekhuizen (primary advisor) </a> and <a href="http://individual.utoronto.ca/jschertz/index.shtml" target="_blank">Dr. Jessamyn Schertz</a> </p>
         <p> This project examines how computational measures of informativity predict how information is distributed across acoustic cues in speech, aiming to bridge large-scale LLM representations and fine-grained speech patterns. </p>
     </div>
 </div>
@@ -66,8 +65,6 @@ Research
     <img src="https://Xinyu-Liao.github.io/images/perceptual learning_final.png" alt="Project Image">
     <div class="content">
         <h3> Perceptual recalibration of speech </h3>
-        <p> Supervisor: <a href="https://www.yoonjungkang.com/" target="_blank">Dr. Yoonjung Kang</a> </p>
-        <p> Collaborator: <a href="https://hironori1123.github.io/Homepage/" target="_blank">Dr. Hironori Katsuda</a> </p>
         <p> This project investigates how listeners adapt to novel phonetic input and how such adaptation sheds light on long-term sound change. Through perceptual learning experiments, we examine phonological and cognitive biases (e.g., lexical frequency and speech rate) in perceptual adaptation and generalization. </p>
     </div>
 </div>
